@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
+  background-color: #ffffff;
 }
 
 .link {
@@ -71,9 +72,7 @@ body {
   font-weight: 500;
   line-height: 24px; /* 150% */
   letter-spacing: 0.64px;
-  border-radius: 4px;
   background: #4d5ae5;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   cursor: pointer;
 }
 
@@ -82,20 +81,6 @@ body {
   background-color: #404bbf;
 }
 /* =====FEATURE===== */
-
-.visually-hidden {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  border: 0;
-  padding: 0;
-
-  white-space: nowrap;
-  clip-path: inset(100%);
-  clip: rect(0 0 0 0);
-  overflow: hidden;
-}
 
 .feature-title {
   color: #2e2f42;
@@ -173,7 +158,6 @@ body {
   color: #f4f4fd;
 }
 .footer-text {
-  width: 264px;
   color: #f4f4fd;
   font-size: 16px;
   line-height: 1.5;
