@@ -109,8 +109,8 @@ body {
   text-transform: capitalize;
 }
 
-.team-list {
-  background: #ffffff;
+.team-item {
+  background-color: #ffffff;
 }
 
 .team-name {
