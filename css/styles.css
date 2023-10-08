@@ -16,11 +16,11 @@ body {
 
 .logo {
   color: #4d5ae5;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 21px;
-  letter-spacing: 1.67;
+  line-height: 1.17px;
+  letter-spacing: 0.3em;
   text-transform: uppercase;
 }
 
@@ -36,19 +36,19 @@ body {
   letter-spacing: 0.32px;
 }
 
-.mail-link,
-.phone-link {
+.contact-link {
   color: inherit;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
+.contact-header {
+  font-style: normal;
+}
 .menu-link:hover,
 .menu-link:focus,
-.mail-link:hover,
-.mail-link:focus,
-.phone-link:hover,
-.phone-link:focus {
+.contact-link:hover,
+.contact-link:focus {
   color: #404bbf;
 }
 /* ======MAIN===== */
