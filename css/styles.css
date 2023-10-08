@@ -33,14 +33,14 @@ body {
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5; /* 150% */
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
 
 .contact-link {
   color: inherit;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
 .contact-header {
   font-style: normal;
@@ -63,7 +63,7 @@ body {
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07; /* 107.143% */
-  letter-spacing: 1.12px;
+  letter-spacing: 0.02em;
 }
 
 .hero-button {
@@ -71,7 +71,7 @@ body {
   font-size: 16px;
   font-weight: 500;
   line-height: 24px; /* 150% */
-  letter-spacing: 0.64px;
+  letter-spacing: 0.04em;
   background: #4d5ae5;
   cursor: pointer;
 }
@@ -87,13 +87,13 @@ body {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.02em;
 }
 
 .feature-text {
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
 /* =====OUR TEAM===== */
 .team {
@@ -105,7 +105,7 @@ body {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: 0.72px;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 
@@ -119,14 +119,14 @@ body {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.02em;
 }
 
 .team-specialty {
   text-align: center;
   font-size: 16px;
   line-height: 24px; /* 150% */
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
 
 /* ====PORTFOLIO==== */
@@ -136,7 +136,7 @@ body {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: 0.72px;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 .portfolio-servises {
@@ -144,14 +144,14 @@ body {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.02em;
 }
 
 .portfolio-branch {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
 
 /* =====FOOTER===== */
@@ -166,5 +166,5 @@ body {
   color: #f4f4fd;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
